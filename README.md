@@ -1,4 +1,4 @@
-# Google Apps Script To PDF Files
+# Keep Google Apps up to date as PDF's
 
 This is a simple Google App Script to convert all Google Docs or Google Sheets documents in a folder to PDF. This version of the code will keep the PDF's up to date with the parent Google Doc.  Run this on a trigger and you can ensure that PDF's stay up to date at all times with the source code
 
