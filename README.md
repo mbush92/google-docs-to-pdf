@@ -1,6 +1,6 @@
 # Google Apps Script To PDF Files
 
-This is a simple Google App Script to convert all Google Docs or Google Sheets documents in a folder to PDF. 
+This is a simple Google App Script to convert all Google Docs or Google Sheets documents in a folder to PDF. This version of the code will keep the PDF's up to date with the parent Google Doc.  Run this on a trigger and you can ensure that PDF's stay up to date at all times with the source code
 
 No downloads are required as this is all done within the Google Drive application. You only need to provide folder IDs for the document root folder and the destination folder for the PDFs. The script will convert all Google documents in the root folder.
 
